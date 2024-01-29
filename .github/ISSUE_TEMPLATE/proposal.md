@@ -2,7 +2,9 @@
 name: "\U0001F4A1 Proposal"
 about: Want to extend the template or modify existing functionality? Send us a proposal
 title: "\U0001F4A1 Proposal - "
-labels: needs review, needs triage, proposal
+labels: ''
+assignees: ''
+
 ---
 
 <!--

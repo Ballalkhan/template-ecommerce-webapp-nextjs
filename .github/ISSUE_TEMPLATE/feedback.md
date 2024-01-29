@@ -2,7 +2,9 @@
 name: "\U0001F4AC Give feedback on a component"
 about: Give us feedback to help us improve this template
 title: "\U0001F4AC Feedback - "
-labels: needs triage
+labels: ''
+assignees: ''
+
 ---
 
 <!--

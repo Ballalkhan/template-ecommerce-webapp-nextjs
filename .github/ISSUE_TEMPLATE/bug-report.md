@@ -2,7 +2,9 @@
 name: "\U0001F41B Bug Report"
 about: Spotted a bug? Add a report to help us improve this template
 title: "\U0001F41B Bug - "
-labels: bug, needs triage
+labels: bug
+assignees: ''
+
 ---
 
 # Bug report
